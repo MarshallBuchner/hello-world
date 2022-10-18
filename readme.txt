@@ -1,5 +1,4 @@
-ffffff
-:wq!
+hello
 
 
 :
